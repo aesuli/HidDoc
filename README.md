@@ -1,4 +1,4 @@
-# Experimenting with pdf-based attacks to GPT-based AI assistants
+# Experimenting with PDF attacks to GPT-based AI assistants
 
 GPT-based AI assistants work with plain text.
 Any different media requires some form of conversion, e.g., images will be likely processed by multimodal models.
